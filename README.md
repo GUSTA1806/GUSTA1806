@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo (ganareitor)!
+# 👋 Olá, eu sou o Gustavo!
 
 - 📖 Segundo semestre de Ciência da Computação  
 - 🚀 Em busca do meu primeiro estágio  
