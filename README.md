@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo!
 
-- 📖 Terceiro semestre de Ciência da Computação  
+- 📖 Quarto semestre de Ciência da Computação  
 - 🚀 Em busca do meu primeiro estágio  
 - 🎯 Quero me tornar um desenvolvedor **Back-End**  
 - 💻 Atualmente estudando **Java**  
